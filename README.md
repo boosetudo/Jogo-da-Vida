@@ -70,13 +70,13 @@ As bibliotecas utilizadas são importadas no início do programa.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/boosetudo/Jogo-da-Vida.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd NOME_DO_REPOSITORIO
+cd Jogo-da-Vida
 ```
 
 Execute o programa:
