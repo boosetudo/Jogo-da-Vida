@@ -91,13 +91,11 @@ O programa será iniciado no terminal e solicitará a escolha da configuração 
 
 **Instituição:** Universidade Estadual de Feira de Santana — UEFS
 **Curso:** Engenharia de Computação
-**Disciplina:** EXA855 - MI Algoritmos
+**Disciplina:** EXA854 - MI Algoritmos
 **Problema:** 2
 **Tema:** O Jogo da Vida
 **Período:** 2025.1
 **Linguagem:** Python
-
-O problema foi iniciado em **09/04/2025**, com entrega do código prevista para **02/05/2025** e do relatório para **04/05/2025**.
 
 ## Autoria
 
